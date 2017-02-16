@@ -8,7 +8,7 @@
 function loadJScript() {
     var script = document.createElement("script");
     script.type = "text/javascript";
-    script.src = "http://api.map.baidu.com/api?v=2.0&ak=a8aSKDHlXLBwAAZjgQS7dX9xDHHPG6aC&callback=init";
+    script.src = "http://api.map.baidu.com/api?v=2.0&ak=KZmGYIB08WGbDS1ouEZ64wqVVD5cbcP3&callback=init";
     document.body.appendChild(script);
 }
 function init() {
